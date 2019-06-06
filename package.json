@@ -1,5 +1,5 @@
 {
-  "name": "@jcuesta/ngxerrors",
+  "name": "ngxerrors-ang8",
   "version": "1.0.0",
   "description": "A declarative validation module for reactive forms",
   "main": "bundle/hackages.ngxerrors.umd.js",
@@ -11,6 +11,7 @@
     "url": "https://github.com/jesuscuesta/ngx-errors",
     "type": "git"
   },
+  "private": false,
   "peerDependencies": {
     "@angular/forms": "^8.0.0"
   }
