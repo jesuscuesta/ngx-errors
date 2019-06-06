@@ -1,6 +1,6 @@
 {
   "name": "@jcuesta/ngxerrors",
-  "version": "7.0.0",
+  "version": "1.0.0",
   "description": "A declarative validation module for reactive forms",
   "main": "bundle/hackages.ngxerrors.umd.js",
   "module": "index.js",
