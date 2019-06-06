@@ -1,0 +1,17 @@
+{
+  "name": "@jcuesta/ngxerrors",
+  "version": "7.0.0",
+  "description": "A declarative validation module for reactive forms",
+  "main": "bundle/hackages.ngxerrors.umd.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "author": "Jesús Cuesta",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/jesuscuesta/ngx-errors",
+    "type": "git"
+  },
+  "peerDependencies": {
+    "@angular/forms": "^8.0.0"
+  }
+}
